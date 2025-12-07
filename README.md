@@ -7,6 +7,7 @@ Full Insight into Workforce Performance, Promotions, and Employee Distribution
 A clean and interactive Power BI dashboard built to analyze employee demographics, promotion readiness, distance-from-office patterns, job levels, and workforce activity. Designed to support HR teams in making informed decisions backed by data.
 
 ✨ Key Features (Based on Actual Dashboard KPIs)
+
 🔹 1. Workforce Overview
 
 Total Employees: 1,470
